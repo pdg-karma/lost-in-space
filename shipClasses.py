@@ -1,7 +1,4 @@
-import pyfirmataConfig
-
-#pyfirmata config
-board = pyfirmataConfig.board
+from pyfirmataConfig import board
 
 #classes
 class Light:

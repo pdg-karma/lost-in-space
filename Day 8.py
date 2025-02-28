@@ -4,7 +4,7 @@ import time
 from shipClasses import *
 
 #variables
-lights = [Light("cabin",10,2), Light("storage",11,3), Light("cockpit",12,4)]
+lights = [Light("red",11,2), Light("green",10,3), Light("blue",9,4)]
 
 #the loop
 while True:
